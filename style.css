@@ -6,8 +6,8 @@
 }
 
 footer {
-  background-color: greenyellow;
-  color: black;
+  background-color: rgb(94, 0, 0);
+  color: rgb(255, 255, 255);
   padding: 15px;
   position: sticky;
   bottom: 0;
